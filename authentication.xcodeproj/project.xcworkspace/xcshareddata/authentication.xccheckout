@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6D0309F0-A400-4EFD-BC84-DC613DB30028</string>
+	<key>IDESourceControlProjectName</key>
+	<string>authentication</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0D07110E039E8F640069276CE72C315501EB7C43</key>
+		<string>bitbucket.org:alex2006hw-lessions/2.git</string>
+		<key>8A11E13C82E1C8C215BA5A6DE6F0DBBE0F728123</key>
+		<string>https://github.com/usertoken-dev/authentication.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>authentication.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0D07110E039E8F640069276CE72C315501EB7C43</key>
+		<string>../../..</string>
+		<key>8A11E13C82E1C8C215BA5A6DE6F0DBBE0F728123</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/usertoken-dev/authentication.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8A11E13C82E1C8C215BA5A6DE6F0DBBE0F728123</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0D07110E039E8F640069276CE72C315501EB7C43</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8A11E13C82E1C8C215BA5A6DE6F0DBBE0F728123</string>
+			<key>IDESourceControlWCCName</key>
+			<string>authentication</string>
+		</dict>
+	</array>
+</dict>
+</plist>
